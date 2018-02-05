@@ -32,7 +32,7 @@ A small, interactive 'game' using SDL && following a YouTube series from [VertSt
 
 
 ## Usage
-This repo will likely never be 'stable' or useful for anything other than a simple concept to help reason about C game dev. That said...
+This repo will likely never be 'stable' || useful for anything other than a simple concept to help reason about C game dev. That said...
 
 **Controls** *(At this moment)*
   - **<, ^, >, v**: move Eve around the screen.
