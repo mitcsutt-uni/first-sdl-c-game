@@ -4,8 +4,8 @@ A small, interactive 'game' using SDL && following a YouTube series from [VertSt
 [![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/shields_badge.svg)](https://semaphoreapp.com/boennemann/badges)
 
 
-(https://img.shields.io/badge/status-NOT%20Stable-red.svg)
-(https://img.shields.io/badge/license-DWYW-green.svg)
+[![Build Status](https://img.shields.io/badge/status-NOT%20Stable-red.svg)]
+[![License](https://img.shields.io/badge/license-DWYW-green.svg)]
 <br/><br/>
 
 
