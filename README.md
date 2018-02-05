@@ -20,19 +20,21 @@ A small, interactive 'game' using SDL && following a YouTube series from [VertSt
 
 
 ## Testing
-From your application code.
 ```
-  Testing coming...
+  cd /path/to/your/project/first-sdl-c-game/
+  ./bin/gmae
 ```
 <br/>
 
 
 
 ## Usage
-This repo is under development. Initial LTS release will be 1.0.0, and it should not be used until then.
-```
-  Usage coming...
-```
+This repo is under development && only here to serve as a working concept for game development in C. This repo will likely never be 'stable' && or useful for anything other than a simple concept to help reason about C game dev. That said...
+
+**Controls** *(At this moment)*
+  - **<, ^, >, v**: move Eve around the screen.
+  - **esc**: quit game.
+<br/>
 
 
 ## Contributing
