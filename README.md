@@ -50,6 +50,8 @@ Not currently accepting outside contributors, but feel free to clone, modify and
 
 ## License
 This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/first-sdl-c-game/blob/master/LICENSE) file for details
+
+SDL Licensing *may* apply. **You are responsible for checking for your use case.**
 <br/><br/>
 
 ## Acknowledgments
