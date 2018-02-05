@@ -2,7 +2,7 @@
 A small, interactive 'game' using SDL && following a YouTube series from [VertStudio3D](https://www.youtube.com/https://www.youtube.com/user/VertoStudio3D), modifying for my purposes as needed.
 
 ![Build Status](https://img.shields.io/badge/status-NOT%20Stable-red.svg)
-![License](https://img.shields.io/badge/license-DWYW-green.svg)
+![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 <br/><br/>
 
 
