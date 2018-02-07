@@ -6,7 +6,7 @@ A small, interactive 'game' using SDL && following a YouTube series from [VertSt
 <br/><br/>
 
 
- 
+
 ## Prerequisites
   - Basically any macOS/Linux computer.
 <br/>
